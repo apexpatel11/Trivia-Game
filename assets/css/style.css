@@ -1,0 +1,59 @@
+html, body{
+  height:100%;
+}
+
+body{
+  background-image: url(https://lh6.googleusercontent.com/-HGG-EWJYl3c/VNGmYZDX0LI/AAAAAAABfjU/K5_7-eACRLs/w400-h400/2FBrxUq.gif);
+  text-align: center;
+
+}
+
+button{
+  display:block;
+  width:50%;
+  height:20%;
+  margin: 0 auto;
+  border:none;
+  cursor: pointer;
+  background:transparent;
+  font-size: 42px;;
+}
+
+img{
+  height:200px;
+}
+
+h1{
+  font-family: 'Geo', sans-serif;
+  font-size: 6.5em;
+  font-weight: bold;
+  color:#FFFF00;
+  padding-top: 2.5%;
+}
+
+h2{
+  font-size: 35px;
+  margin-bottom: 25px;
+}
+
+h3{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+#subwrapper{
+   color: #FBEEE6;
+}
+#quiz-area{
+  color: #3498DB;
+}
+
+#start{
+  margin-top: 10%;
+  border:3px solid #2980B9;
+  background: #F7DC6F;
+}
+
+button:hover {
+  border:3px solid #2980B9;
+  background: #F7DC6F;
+}
